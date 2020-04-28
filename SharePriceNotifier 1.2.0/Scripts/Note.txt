@@ -1,0 +1,1 @@
+In order to execute these scripts in absence of chromedriver in the system, or the chromedriver's path in system environment variables, move the scripts to base folder (..\ or you can say the just higher directory) so the relative path takes the chromedriver and the icon files present in the 'Include' directory.

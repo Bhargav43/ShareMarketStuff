@@ -1,0 +1,1 @@
+{"code":"201","message":"No data found for given key: stk_YD_N","data":null}

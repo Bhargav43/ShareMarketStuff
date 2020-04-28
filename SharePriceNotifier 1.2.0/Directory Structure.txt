@@ -1,0 +1,30 @@
+H:\Projects\Python Related Stuff\Pyzo Projects\ShareMarketStuff\Share_Price_Notifier\SharePriceNotifier 1.2.0>tree /A /F >"Directory Structure.txt"
+
+Folder PATH listing for volume Useful
+Volume serial number is AE15-F2BF
+H:.
+|   Directory Structure.txt
+|   Freezing Logs.txt
+|   SharePriceNotifier.exe
+|   SharePriceNotifier.spec
+|   
++---Includes
+|       Stocks Icon.ico
+|       
++---Logs
++---Samples
+|       Sample BSE Response Page HTML (Reliance).txt
+|       Sample NSE Response Page HTML (Reliance).txt
+|       Sample NSE Response Page HTML For Share Not Listed (Yug Decor Ltd.).txt
+|       Sample Output.txt
+|       Sample UI Page HTML (Reliance).txt
+|       SPN_Logs_29APR20023108.txt
+|       
+\---Scripts
+        DataScrapper.py
+        Note.txt
+        Operations.py
+        SaveLogs.py
+        SharePriceNotifier.py
+        User_Inputs.py
+        

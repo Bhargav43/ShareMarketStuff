@@ -1,0 +1,220 @@
+Microsoft Windows [Version 10.0.17134.1425]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+H:\Projects\Python Related Stuff\Pyzo Projects\ShareMarketStuff\Share_Price_Notifier\SharePriceNotifier 1.2.0>SharePriceNotifier.exe
+There are a total of 8640 shares. To make the selection simple, use the followning option:
+1. Specific Alphabet's Shares.
+2. Else, All Shares.
+
+Your Option? [1, 2]     1
+Great! Now Enter The Letter (Case-Insensitive) You Want to Shortlist. Your Letter? [A-Z]        y
+Your Letter is Y
+
+List of 'Y' Shares:
+Sno.    Name
+1       Yama Polymers
+2       Yamini Invt
+3       Yangir Syntheti
+4       Yantra Natural
+5       Yarn Syndicate
+6       Yash Chemex
+7       Yash Manage
+8       YASH PAKKA LTD
+9       Yash Trading
+10      Yasho Industrie
+11      Yashraj Contain
+12      Yenepoya Minera
+13      Yes Bank
+14      Yogi Pharmacy
+15      Yogi Polyesters
+16      Yogi-Sung-Won
+17      Yogindera
+18      Yokogawa India
+19      York Exports
+20      YS Porcelain
+21      Yug Decor
+22      Yuken India
+23      Yule Financing
+24      Yuranus Infra
+25      Yuvraaj Hygiene
+26      Yuvraj Intl
+
+Your Share [1,26]:      13
+
+Great! You've Selected Yes Bank
+
+
+Yes Bank's present BSE, NSE values are (27.25, 27.25)
+You can Cross-Check from http://www.moneycontrol.com/india/stockpricequote/banksprivatesector/yesbank/YB
+
+Please Select Type of Alert (Applies for both BSE and NSE)
+1.Higher Than
+2.Less Than
+3.Between
+4.Below Min & Above Max
+5.Any Change of Value
+Your Option(1,2,3,4 or 5):      3
+Between (a,b). Enter a,b:       20, 30
+
+Share:  Yes Bank
+BSE:    27.25
+NSE:    27.25
+At:     29-Apr-20 02:30:35
+
+Press CTRL+C (in Console) or CTRL+I (in Shell) to Exit
+
+Share:  Yes Bank
+BSE:    27.25
+NSE:    27.25
+At:     29-Apr-20 02:30:36
+
+Press CTRL+C (in Console) or CTRL+I (in Shell) to Exit
+
+Share:  Yes Bank
+BSE:    27.25
+NSE:    27.25
+At:     29-Apr-20 02:30:36
+
+Press CTRL+C (in Console) or CTRL+I (in Shell) to Exit
+
+Share:  Yes Bank
+BSE:    27.25
+NSE:    27.25
+At:     29-Apr-20 02:30:37
+
+Press CTRL+C (in Console) or CTRL+I (in Shell) to Exit
+
+Share:  Yes Bank
+BSE:    27.25
+NSE:    27.25
+At:     29-Apr-20 02:30:37
+
+Press CTRL+C (in Console) or CTRL+I (in Shell) to Exit
+
+Share:  Yes Bank
+BSE:    27.25
+NSE:    27.25
+At:     29-Apr-20 02:30:37
+
+Press CTRL+C (in Console) or CTRL+I (in Shell) to Exit
+
+Share:  Yes Bank
+BSE:    27.25
+NSE:    27.25
+At:     29-Apr-20 02:30:38
+
+Press CTRL+C (in Console) or CTRL+I (in Shell) to Exit
+
+Share:  Yes Bank
+BSE:    27.25
+NSE:    27.25
+At:     29-Apr-20 02:30:39
+
+Press CTRL+C (in Console) or CTRL+I (in Shell) to Exit
+
+Share:  Yes Bank
+BSE:    27.25
+NSE:    27.25
+At:     29-Apr-20 02:30:39
+
+Press CTRL+C (in Console) or CTRL+I (in Shell) to Exit
+
+Share:  Yes Bank
+BSE:    27.25
+NSE:    27.25
+At:     29-Apr-20 02:30:40
+
+Press CTRL+C (in Console) or CTRL+I (in Shell) to Exit
+
+Share:  Yes Bank
+BSE:    27.25
+NSE:    27.25
+At:     29-Apr-20 02:30:41
+
+Press CTRL+C (in Console) or CTRL+I (in Shell) to Exit
+
+Share:  Yes Bank
+BSE:    27.25
+NSE:    27.25
+At:     29-Apr-20 02:30:41
+
+Press CTRL+C (in Console) or CTRL+I (in Shell) to Exit
+
+Share:  Yes Bank
+BSE:    27.25
+NSE:    27.25
+At:     29-Apr-20 02:30:42
+
+Press CTRL+C (in Console) or CTRL+I (in Shell) to Exit
+
+Share:  Yes Bank
+BSE:    27.25
+NSE:    27.25
+At:     29-Apr-20 02:30:42
+
+Press CTRL+C (in Console) or CTRL+I (in Shell) to Exit
+
+Share:  Yes Bank
+BSE:    27.25
+NSE:    27.25
+At:     29-Apr-20 02:30:43
+
+Press CTRL+C (in Console) or CTRL+I (in Shell) to Exit
+
+Share:  Yes Bank
+BSE:    27.25
+NSE:    27.25
+At:     29-Apr-20 02:30:43
+
+Press CTRL+C (in Console) or CTRL+I (in Shell) to Exit
+
+Share:  Yes Bank
+BSE:    27.25
+NSE:    27.25
+At:     29-Apr-20 02:30:43
+
+Press CTRL+C (in Console) or CTRL+I (in Shell) to Exit
+
+Share:  Yes Bank
+BSE:    27.25
+NSE:    27.25
+At:     29-Apr-20 02:30:44
+
+Press CTRL+C (in Console) or CTRL+I (in Shell) to Exit
+
+Share:  Yes Bank
+BSE:    27.25
+NSE:    27.25
+At:     29-Apr-20 02:30:45
+
+Press CTRL+C (in Console) or CTRL+I (in Shell) to Exit
+
+Share:  Yes Bank
+BSE:    27.25
+NSE:    27.25
+At:     29-Apr-20 02:30:45
+
+Press CTRL+C (in Console) or CTRL+I (in Shell) to Exit
+
+Share:  Yes Bank
+BSE:    27.25
+NSE:    27.25
+At:     29-Apr-20 02:30:45
+
+Press CTRL+C (in Console) or CTRL+I (in Shell) to Exit
+
+Share:  Yes Bank
+BSE:    27.25
+NSE:    27.25
+At:     29-Apr-20 02:30:46
+
+Press CTRL+C (in Console) or CTRL+I (in Shell) to Exit
+
+--Interrupted--
+
+Your Notification's Log is Saved At:
+H:\Projects\Python Related Stuff\Pyzo Projects\ShareMarketStuff\Share_Price_Notifier\SharePriceNotifier 1.2.0\Logs\SPN_Logs_29APR20023108.txt
+
+Press Any Key to Exit.
+
+H:\Projects\Python Related Stuff\Pyzo Projects\ShareMarketStuff\Share_Price_Notifier\SharePriceNotifier 1.2.0>

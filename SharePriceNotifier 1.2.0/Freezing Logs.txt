@@ -1,0 +1,82 @@
+
+H:\Projects\Python Related Stuff\Pyzo Projects\ShareMarketStuff\Share_Price_Notifier\SharePriceNotifier 1.2.0>pyi-makespec --onefile  --hidden-import=DataScrapper --hidden-import=User_Inputs --hidden-import=Operations --hidden-import=SaveLogs --hidden-import=requests --hidden-import=json --hidden-import=bs4 --hidden-import=os --hidden-import=time --hidden-import=win10toast --hidden-import=pkg_resources.py2_warn --icon=".\Includes\Stocks Icon.ico" --specpath="H:\Projects\Python Related Stuff\Pyzo Projects\ShareMarketStuff\Share_Price_Notifier\SharePriceNotifier 1.2.0" ".\Scripts\SharePriceNotifier.py"
+wrote H:\Projects\Python Related Stuff\Pyzo Projects\ShareMarketStuff\Share_Price_Notifier\SharePriceNotifier 1.2.0\SharePriceNotifier.spec
+now run pyinstaller.py to build the executable
+
+H:\Projects\Python Related Stuff\Pyzo Projects\ShareMarketStuff\Share_Price_Notifier\SharePriceNotifier 1.2.0>pyinstaller --onefile  --hidden-import=DataScrapper --hidden-import=User_Inputs --hidden-import=Operations --hidden-import=SaveLogs --hidden-import=requests --hidden-import=json --hidden-import=bs4 --hidden-import=os --hidden-import=time --hidden-import=win10toast --hidden-import=pkg_resources.py2_warn --icon=".\Includes\Stocks Icon.ico" --specpath="H:\Projects\Python Related Stuff\Pyzo Projects\ShareMarketStuff\Share_Price_Notifier\SharePriceNotifier 1.2.0" ".\Scripts\SharePriceNotifier.py"
+276 INFO: PyInstaller: 3.6
+277 INFO: Python: 3.7.0
+278 INFO: Platform: Windows-10-10.0.17134-SP0
+281 INFO: wrote H:\Projects\Python Related Stuff\Pyzo Projects\ShareMarketStuff\Share_Price_Notifier\SharePriceNotifier 1.2.0\SharePriceNotifier.spec
+287 INFO: UPX is not available.
+358 INFO: Extending PYTHONPATH with paths
+['H:\\Projects\\Python Related Stuff\\Pyzo '
+ 'Projects\\ShareMarketStuff\\Share_Price_Notifier\\SharePriceNotifier '
+ '1.2.0\\Scripts',
+ 'H:\\Projects\\Python Related Stuff\\Pyzo '
+ 'Projects\\ShareMarketStuff\\Share_Price_Notifier\\SharePriceNotifier 1.2.0']
+361 INFO: checking Analysis
+362 INFO: Building Analysis because Analysis-00.toc is non existent
+364 INFO: Initializing module dependency graph...
+377 INFO: Caching module graph hooks...
+407 INFO: Analyzing base_library.zip ...
+12733 INFO: Caching module dependency graph...
+13144 INFO: running Analysis Analysis-00.toc
+13155 INFO: Adding Microsoft.Windows.Common-Controls to dependent assemblies of final executable
+  required by e:\installation directory\python\python37-64\python.exe
+13460 INFO: Analyzing H:\Projects\Python Related Stuff\Pyzo Projects\ShareMarketStuff\Share_Price_Notifier\SharePriceNotifier 1.2.0\Scripts\SharePriceNotifier.py
+14074 INFO: Processing pre-safe import module hook   urllib3.packages.six.moves
+21089 INFO: Processing pre-find module path hook   distutils
+21093 INFO: distutils: retargeting to non-venv dir 'e:\\installation directory\\python\\python37-64\\lib'
+21286 INFO: Processing pre-find module path hook   site
+21290 INFO: site: retargeting to fake-dir 'e:\\installation directory\\python\\python37-64\\lib\\site-packages\\PyInstaller\\fake-modules'
+25865 INFO: Analyzing hidden import 'pkg_resources.py2_warn'
+25892 INFO: Processing module hooks...
+25893 INFO: Loading module hook "hook-certifi.py"...
+25905 INFO: Loading module hook "hook-distutils.py"...
+25912 INFO: Loading module hook "hook-encodings.py"...
+26283 INFO: Loading module hook "hook-lxml.etree.py"...
+26288 INFO: Loading module hook "hook-pkg_resources.py"...
+27583 INFO: Processing pre-safe import module hook   win32com
+28594 INFO: Excluding import '__main__'
+28598 INFO:   Removing import of __main__ from module pkg_resources
+28602 INFO: Loading module hook "hook-pydoc.py"...
+28606 INFO: Loading module hook "hook-pythoncom.py"...
+29676 INFO: Loading module hook "hook-pywintypes.py"...
+30732 INFO: Loading module hook "hook-sysconfig.py"...
+30738 INFO: Loading module hook "hook-win32com.py"...
+32292 INFO: Loading module hook "hook-xml.dom.domreg.py"...
+32296 INFO: Loading module hook "hook-xml.py"...
+32391 INFO: Looking for ctypes DLLs
+32456 INFO: Analyzing run-time hooks ...
+32475 INFO: Including run-time hook 'pyi_rth_pkgres.py'
+32481 INFO: Including run-time hook 'pyi_rth_win32comgenpy.py'
+32489 INFO: Including run-time hook 'pyi_rth_certifi.py'
+32521 INFO: Looking for dynamic libraries
+34243 INFO: Looking for eggs
+34244 INFO: Using Python library e:\installation directory\python\python37-64\python37.dll
+34249 INFO: Found binding redirects:
+[]
+34273 INFO: Warnings written to H:\Projects\Python Related Stuff\Pyzo Projects\ShareMarketStuff\Share_Price_Notifier\SharePriceNotifier 1.2.0\build\SharePriceNotifier\warn-SharePriceNotifier.txt
+34533 INFO: Graph cross-reference written to H:\Projects\Python Related Stuff\Pyzo Projects\ShareMarketStuff\Share_Price_Notifier\SharePriceNotifier 1.2.0\build\SharePriceNotifier\xref-SharePriceNotifier.html
+34595 INFO: checking PYZ
+34596 INFO: Building PYZ because PYZ-00.toc is non existent
+34601 INFO: Building PYZ (ZlibArchive) H:\Projects\Python Related Stuff\Pyzo Projects\ShareMarketStuff\Share_Price_Notifier\SharePriceNotifier 1.2.0\build\SharePriceNotifier\PYZ-00.pyz
+38011 INFO: Building PYZ (ZlibArchive) H:\Projects\Python Related Stuff\Pyzo Projects\ShareMarketStuff\Share_Price_Notifier\SharePriceNotifier 1.2.0\build\SharePriceNotifier\PYZ-00.pyz completed successfully.
+38091 INFO: checking PKG
+38092 INFO: Building PKG because PKG-00.toc is non existent
+38097 INFO: Building PKG (CArchive) PKG-00.pkg
+52112 INFO: Building PKG (CArchive) PKG-00.pkg completed successfully.
+52125 INFO: Bootloader e:\installation directory\python\python37-64\lib\site-packages\PyInstaller\bootloader\Windows-64bit\run.exe
+52126 INFO: checking EXE
+52129 INFO: Building EXE because EXE-00.toc is non existent
+52131 INFO: Building EXE from EXE-00.toc
+52138 INFO: Copying icons from ['Includes\\Stocks Icon.ico']
+52422 INFO: Writing RT_GROUP_ICON 0 resource with 20 bytes
+52422 INFO: Writing RT_ICON 1 resource with 20102 bytes
+52462 INFO: Updating manifest in H:\Projects\Python Related Stuff\Pyzo Projects\ShareMarketStuff\Share_Price_Notifier\SharePriceNotifier 1.2.0\build\SharePriceNotifier\run.exe._kuwe124
+52677 INFO: Updating resource type 24 name 1 language 0
+52694 INFO: Appending archive to EXE H:\Projects\Python Related Stuff\Pyzo Projects\ShareMarketStuff\Share_Price_Notifier\SharePriceNotifier 1.2.0\dist\SharePriceNotifier.exe
+52998 INFO: Building EXE from EXE-00.toc completed successfully.
+
+H:\Projects\Python Related Stuff\Pyzo Projects\ShareMarketStuff\Share_Price_Notifier\SharePriceNotifier 1.2.0>
