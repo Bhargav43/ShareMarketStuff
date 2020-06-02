@@ -22,7 +22,6 @@ H:.
 |       
 \---Scripts
         DataScrapper.py
-        Note.txt
         Operations.py
         SaveLogs.py
         SharePriceNotifier.py
